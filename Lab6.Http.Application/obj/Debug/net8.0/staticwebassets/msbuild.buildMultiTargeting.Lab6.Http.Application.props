@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lab6.Http.Application.props" />
+</Project>

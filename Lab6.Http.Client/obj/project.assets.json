@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Lab6.Http.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Lab6.Http.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab6.Http.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab6.Http.Common/1.0.0": {
+      "type": "project",
+      "path": "../Lab6.Http.Common/Lab6.Http.Common.csproj",
+      "msbuildProject": "../Lab6.Http.Common/Lab6.Http.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Lab6.Http.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sopar\\.nuget\\packages\\": {},
+    "D:\\Programms\\Visual Studio Instruments\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sopar\\OneDrive\\Рабочий стол\\Lab6.Http\\Lab6.Http.Client\\Lab6.Http.Client.csproj",
+      "projectName": "Lab6.Http.Client",
+      "projectPath": "C:\\Users\\sopar\\OneDrive\\Рабочий стол\\Lab6.Http\\Lab6.Http.Client\\Lab6.Http.Client.csproj",
+      "packagesPath": "C:\\Users\\sopar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sopar\\OneDrive\\Рабочий стол\\Lab6.Http\\Lab6.Http.Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Programms\\Visual Studio Instruments\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\sopar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\sopar\\OneDrive\\Рабочий стол\\Lab6.Http\\Lab6.Http.Common\\Lab6.Http.Common.csproj": {
+              "projectPath": "C:\\Users\\sopar\\OneDrive\\Рабочий стол\\Lab6.Http\\Lab6.Http.Common\\Lab6.Http.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

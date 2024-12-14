@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4899ED-C7A8-4D49-AC45-2B32C725D44B}|Lab6.Http.Client\\Lab6.Http.Client.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab6.http\\lab6.http.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4899ED-C7A8-4D49-AC45-2B32C725D44B}|Lab6.Http.Client\\Lab6.Http.Client.csproj|solutionrelative:lab6.http.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4899ED-C7A8-4D49-AC45-2B32C725D44B}|Lab6.Http.Client\\Lab6.Http.Client.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab6.http\\lab6.http.client\\productapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4899ED-C7A8-4D49-AC45-2B32C725D44B}|Lab6.Http.Client\\Lab6.Http.Client.csproj|solutionrelative:lab6.http.client\\productapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab6.http\\lab6.http.application\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|solutionrelative:lab6.http.application\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71F727D-8375-4370-BBE3-BF3435C2A310}|Lab6.Http.Common\\Lab6.Http.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab6.http\\lab6.http.common\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71F727D-8375-4370-BBE3-BF3435C2A310}|Lab6.Http.Common\\Lab6.Http.Common.csproj|solutionrelative:lab6.http.common\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab6.http\\lab6.http.application\\storage\\productstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62250B6-C59D-4A38-8E61-7CE54B4F52F0}|Lab6.Http.Application\\Lab6.Http.Application.csproj|solutionrelative:lab6.http.application\\storage\\productstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71F727D-8375-4370-BBE3-BF3435C2A310}|Lab6.Http.Common\\Lab6.Http.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab6.http\\lab6.http.common\\iproductapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71F727D-8375-4370-BBE3-BF3435C2A310}|Lab6.Http.Common\\Lab6.Http.Common.csproj|solutionrelative:lab6.http.common\\iproductapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Common\\Product.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Common\\Product.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Common\\Product.cs",
+              "RelativeToolTip": "Lab6.Http.Common\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:08:30.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductApi.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Common\\IProductApi.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Common\\IProductApi.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Common\\IProductApi.cs",
+              "RelativeToolTip": "Lab6.Http.Common\\IProductApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:05:02.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Application\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Application\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Application\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Lab6.Http.Application\\Controller\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:02:29.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductStorage.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Application\\Storage\\ProductStorage.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Application\\Storage\\ProductStorage.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Application\\Storage\\ProductStorage.cs",
+              "RelativeToolTip": "Lab6.Http.Application\\Storage\\ProductStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:03:18.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Client\\ProductApiClient.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Client\\ProductApiClient.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Client\\ProductApiClient.cs",
+              "RelativeToolTip": "Lab6.Http.Client\\ProductApiClient.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:35:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6.Http.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab6.Http\\Lab6.Http.Client\\Program.cs",
+              "RelativeToolTip": "Lab6.Http.Client\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAD8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:37:45.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0i7FDzlnhccFHERRqiBgd0holsBPcCTA6bcrOw2Dhfk=",
+  "Source": "Lab6.Http.Application",
+  "BasePath": "_content/Lab6.Http.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

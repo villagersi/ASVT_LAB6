@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "\u0421\u043E\u0441\u0438\u0441\u043A\u0438",
+    "Price": 99.99,
+    "Quantity": 25,
+    "Active": true
+  },
+  {
+    "Id": 2,
+    "Name": "\u0422\u043E\u0432\u0430\u0440 2",
+    "Price": 150.50,
+    "Quantity": 5,
+    "Active": true
+  },
+  {
+    "Id": 3,
+    "Name": "\u0422\u043E\u0432\u0430\u0440 3",
+    "Price": 200.00,
+    "Quantity": 20,
+    "Active": true
+  },
+  {
+    "Id": 4,
+    "Name": "\u041C\u0430\u043A\u0430\u0440\u043E\u043D\u044B",
+    "Price": 39.99,
+    "Quantity": 14,
+    "Active": true
+  }
+]
